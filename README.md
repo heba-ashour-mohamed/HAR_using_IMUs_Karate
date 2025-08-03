@@ -1,0 +1,1 @@
+# HAR_using_IMUs_Karate
