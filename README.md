@@ -1,1 +1,1 @@
-# HAR_using_IMUs_Karate
+ The password is the title of our first research paper
